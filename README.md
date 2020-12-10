@@ -1,6 +1,8 @@
 # Desafio 6 por Bruno Aguilar, Ayrton Mera y Jaime Olguín
 Repositorio para la entrega del desafío 6.
 
+## Link al repositorio -> https://github.com/Chrysheight/Desafio_6
+
 Aquí les mostraremos el código con su respectiva explicación sobre qué son y cómo funcionan los Strongly Connected Components (SCC).
 
 Link de la presentación -> https://docs.google.com/presentation/d/1bNogeOn-rOC1Qngi_XzZjOZhIapBudRcQ9SBGTP6RPY/edit?usp=sharing
